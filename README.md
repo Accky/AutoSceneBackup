@@ -5,7 +5,7 @@ Auto Scene Backup can automatically back up the scene you are working on and res
 ![cap1.png](doc/img/cap1.png)
 
 ## Install
-1. Download latest AutoSceneBackup.unitypackage from this link.
+1. Download latest auto-scene-backup_vX.X.X.unitypackage from this link.
 https://github.com/Accky/AutoSceneBackup/releases
 2. Import AutoSceneBackup.unitypackage to your project.
 
